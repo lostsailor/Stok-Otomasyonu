@@ -1,0 +1,15 @@
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe.config
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Form1.resources
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.Properties.Resources.resources
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.csproj.GenerateResource.Cache
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.exe
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\bin\Debug\Stok Otomasyonu.pdb
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.exe
+c:\users\ozhan\documents\visual studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok Otomasyonu.pdb
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.main.resources
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.urunekle.resources
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.kullaniciekle.resources
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.zimmet.resources
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.marka.resources
+C:\Users\ozhan\Documents\Visual Studio 2015\Projects\Stok Otomasyonu\Stok Otomasyonu\obj\Debug\Stok_Otomasyonu.model.resources
